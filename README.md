@@ -1,5 +1,5 @@
-# e01-github
-## Exercise 1: GitHub Basics
+# e02-github
+## Exercise 2: GitHub Basics
 
 ### Summary
 
