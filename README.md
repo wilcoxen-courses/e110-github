@@ -1,5 +1,4 @@
-# e02-github
-## Exercise 2: GitHub Basics
+# Exercise: GitHub Basics
 
 ### Summary
 
