@@ -30,6 +30,6 @@ of skills you're hoping to get out of the class.
 
 ### Submitting
 
-Once you're happy with your bio and have committed all of the changes to
-your local repository, please push the changes to GitHub. At that point, you're
-done: you have submitted your answer.
+Once you're happy with everything and have committed all of the changes to
+your local repository, please push the changes to GitHub. At that point, 
+you're done: you have submitted your answer.
