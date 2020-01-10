@@ -30,6 +30,13 @@ of skills you're hoping to get out of the class.
 
 ### Submitting
 
-Once you're happy with everything and have committed all of the changes to
-your local repository, please push the changes to GitHub. At that point, 
-you're done: you have submitted your answer.
+Once you're happy with everything and have committed all of your
+changes to your local repository, please push the changes to GitHub.
+At that point, you're done: you have submitted your answer and I'll
+be able to see and download it.
+
+If you haven't used GitHub before and are not completely comfortable
+with it, you may worry about whether or not the push worked. An easy
+way to check is to go to GitHub on the web and look at your repository.
+You'll be able to tell from the comments field or the full list of
+commits whether or not the changes are there.
