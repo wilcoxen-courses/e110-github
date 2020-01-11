@@ -5,6 +5,10 @@
 This is a starter exercise to get everyone up to speed in using GitHub for
 computational assignments.
 
+To see these instructions with better formatting, open the file in Atom and
+then turn on the Markdown preview by choosing "Packages > Markdown Preview >
+Toggle Preview".
+
 ### Instructions
 
 Please use Atom or another text editor to revise the accompanying `bio.md` in
@@ -27,6 +31,13 @@ economics background, one on your statistics background, and one on the kinds
 of skills you're hoping to get out of the class.
 
 1. Stage and commit that change with an appropriate log message.
+
+1. Create a new file called `done.md` with three lines: (1) `# Done`, (2) a
+blank line, and (3) the date. It's not very interesting: it's just to practice
+adding a new file to a repository.
+
+1. Commit the file to the repository using either Atom or GitHub Desktop. It
+will appear in either one as a file with unstaged changes.
 
 ### Submitting
 
