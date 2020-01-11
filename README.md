@@ -5,9 +5,9 @@
 This is a starter exercise to get everyone up to speed in using GitHub for
 computational assignments.
 
-To see these instructions with better formatting, open the file in Atom and
-then turn on the Markdown preview by choosing "Packages > Markdown Preview >
-Toggle Preview".
+If you're viewing this file on your computer, you can see the formatted
+version by opening the file in Atom and then turn on the Markdown preview
+by choosing "Packages > Markdown Preview > Toggle Preview".
 
 ### Instructions
 
