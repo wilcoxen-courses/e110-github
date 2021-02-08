@@ -1,25 +1,29 @@
-# PAI 789 Spring 2020 Information Sheet
+# PAI 789 Information Sheet
 
-### Full Name
+### 1. PAI 724 Data-Driven Decision Making
 
-?fullname?
+Have you taken it?
 
-### Preferred Name
+?response?
 
-?prefname?
+### 2. Coding Background
 
-### Coding Background
+Tell me a little about your coding background. What languages
+have you used (if any) and how comfortable are you with them?
 
-?coding?
+?response?
 
-### Economics Background
+### 3. GIS Background
 
-?econ?
+Have you worked with spatial data and software (GIS) before? 
+If you have, say a little about how comfortable you are with it.
 
-### Statistics Background
+?response?
 
-?stats?
+### 4. Policy, Research or Career Interests
 
-### Interests
+Tell me a little about your professional interests. What kinds
+of topics would you like to work on or where would you like to
+work?
 
-?interests?
+?response?
