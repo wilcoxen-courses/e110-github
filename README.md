@@ -21,8 +21,8 @@ Markdown file `bio.md`. Please make the changes in the following
 steps. Don't do everything at once: the point is to see how 
 successive revisions are logged and tracked.
 
-1. There are four broad questions in the file. The first is about
-PAI 724. Please edit it and replace the placeholder string
+1. There are five broad questions in the file. The first is about 
+where you're from. Please edit it and replace the placeholder string 
 `?response?` with `yes` or `no`. Be sure to remove the question
 marks: they are just there to indicate the text you're supposed to
 replace.
@@ -36,7 +36,7 @@ letters `?response?` with a short answer to the question. The answers
 don't have to be long: a few words or a sentence or two are enough.
 
 1. Stage and commit that change with an appropriate log message. It's 
-OK to do all the changes for questions 2-4 at once.
+OK to do all the changes for questions 2-5 at once.
 
 1. Now create a new file called `done.md` with three lines: (1) a 
 line consisting of a `#`, a space, and the word `Done` (that will 
