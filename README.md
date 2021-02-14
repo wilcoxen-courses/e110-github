@@ -14,6 +14,11 @@ The previewer is a little glitchy: if you get an error message about
 That usually clears it up. See the tips section about installing 
 an improved version.
 
+### Deliverables
+
+Your finished repository should contain an updated version of **bio.md**
+plus a new file called **done.md**.
+
 ### Instructions
 
 Please use Atom or another text editor to revise the accompanying 
@@ -44,8 +49,7 @@ create a level 1 Markdown heading), (2) a blank line, and (3) a line
 with the date. It's not a very interesting file but it's useful as 
 practice in adding a new file to a repository.
 
-1. Commit `done.md` to the repository using either Atom or GitHub
-Desktop. 
+1. Commit `done.md` to the repository. 
 
 ### Submitting
 
