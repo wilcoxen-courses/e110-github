@@ -2,11 +2,13 @@
 
 ## Summary
 
-This is a starter exercise to get everyone up to speed on using GitHub and VS Code for computational assignments. It also gives me some very helpful background information.
+This is a starter exercise to get everyone up to speed on using GitHub, VS Code, and Markdown for computational assignments. It also gives me some very helpful background information.
 
-If you're viewing this file on your computer, you can see a nicely formatted version by opening the file in VS Code and then turning on the Markdown preview pane. The pane is activated by clicking on the small "Open Preview" icon at the upper right that looks like two columns and a magnifying glass:
+If you're viewing this file using VS Code your computer, you can see a nicely formatted version by turning on the Markdown preview pane. The pane is activated by clicking on the small "Open Preview" icon at the upper right that looks like two columns and a magnifying glass:
 
 ![Markdown preview icon](image1.png)
+
+Finally, in this and all other Readme files this semester, backquotes are often used to signal that something is either code or should be entered directly as-is. In the rendered version (PDF or preview) the text will be shown in a monospaced font and won't have quotes.
 
 ## Deliverables
 
@@ -14,27 +16,43 @@ Your finished repository should contain an updated version of **bio.md** plus a 
 
 ## Instructions
 
+### bio.md
+
 Please use VS Code or another text editor to revise the accompanying Markdown file `bio.md`. Please make the changes in the steps below. Don't do everything at once: part of the point is to see how successive revisions are logged and tracked.
 
-1. There are five broad questions in the file. The first is about where you're from. Please edit it and replace the placeholder string `TBD` with your home town.
+1. There are five broad questions in the file. The first is about where you're from. Please edit it and **make only one change**: replace the placeholder string `TBD` with your home town.
 
-1. Stage that change and then commit it to your local repository with a short log message. Please do this *before* going on to make the other changes below.
+1. **Stage** that change and then **commit** it to your local repository with a short log message. Please do this **before** going on to make the other changes below.
 
 1. Now go on to the remaining sections. In each case replace the letters `TBD` with a short answer to the question. The answers don't have to be long: a few words or a sentence or two are enough.
 
-1. Stage and commit that change with an appropriate log message. It's OK to do all the changes for questions 2-5 at once.
+1. Stage and commit that change with an appropriate log message. It's OK to do all the changes for questions 2-4 at once.
 
-1. Now create a new file called `done.md` with three lines:
+### done.md
 
-    1. A heading line consisting of a `#`, a space, and the word `Done`. That will create a level 1 Markdown heading.
+Now create a new file called `done.md` with the contents described below. If you haven't used Markdown a lot, you might want to look at the `demo.md` file to see examples of some of the Markdown that will be needed.
 
-    2. A blank line. That separates the heading from the subsequent text.
+1. Start with a level 1 heading line that says `Done` (just the word, don't include the backquotes).
 
-    3. A line with the date.
+1. Add some plain text (not a heading) that says `Here is a demonstration of some features of Markdown` (again, just the words: don't include the backquotes in the Readme file).
 
-    It's not a very interesting file but it's useful as practice in adding a new file to a repository and a quick introduction to Markdown.
+1. Add a level 2 heading that says `Three Courses`.
 
-1. Commit `done.md` to the repository.
+1. Add a *unnumbered* list consisting of any three Maxwell course numbers and titles (e.g., `PAI 789 Advanced Policy Analysis``).
+
+1. Add a level 2 heading that says `Some Animals`` and then add an *numbered* list of any three animals.
+
+1. Add a level 2 heading that says `Linking``.
+
+1. Find a picture of an animal in your list (maybe a pet if you have one) and save it in the repository. Then add line of plain text saying what it is and then add an inline link to the image after the heading.
+
+1. Add another line of plain text that says `The instructions for this assignment are here` where "here" is a link to this file, `readme.md`.
+
+1. Finally, another level 2 heading that says `Code` and follow it with a Python code block with two short lines of code: the first should be `message ="done"` and the second should be `print(message)`.
+
+1. Finally, make sure your file looks OK in the previewer. It should be formatted correctly, the image should be visible, the link should work, and the code should be in block.
+
+1. Commit `done.md` and your animal image to the repository.
 
 ## Submitting
 
