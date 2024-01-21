@@ -4,11 +4,18 @@
 
 This is a starter exercise to get everyone up to speed on using GitHub, VS Code, and Markdown for computational assignments. It also gives me some very helpful background information.
 
-If you're viewing this file using VS Code your computer, you can see a nicely formatted version by turning on the Markdown preview pane. The pane is activated by clicking on the small "Open Preview" icon at the upper right that looks like two columns and a magnifying glass:
+If you're viewing this file using VS Code, you can see a nicely formatted version by turning on the Markdown preview pane. The pane is activated by clicking on the small "Open Preview" icon at the upper right that looks like two columns and a magnifying glass:
 
 ![Markdown preview icon](image1.png)
 
-Finally, in this and all other Readme files this semester, backquotes are often used to signal that something is either code or should be entered directly as-is. In the rendered version (PDF or preview) the text will be shown in a monospaced font and won't have quotes.
+One other quick note: in this and other Readme files this semester, backquotes are often used to signal that something is code or should be entered directly as-is. In the rendered version (PDF or preview) the text will be shown in a monospaced font and won't have quotes.
+
+This approach is used to avoid a meta-quote problem: putting quotes around code would be confusing since the code itself can have quotes. For example, the first instruction below is cleaner and clearer than the second:
+
+* Add a line to your script that says `name = "Python"`
+* Add a line to your script that says "name = "Python"" but without the outside quotes.
+
+When you're looking at the raw Markdown, you'll see the backquotes but be sure to omit them when you're carrying out the instructions.
 
 ## Deliverables
 
