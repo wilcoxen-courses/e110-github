@@ -8,18 +8,19 @@ If you're viewing this file using VS Code, you can see a nicely formatted versio
 
 ![Markdown preview icon](image1.png)
 
-One other quick note: in this and other Readme files this semester, backquotes are often used to signal that something is code or should be entered directly as-is. In the rendered version (PDF or preview) the text will be shown in a monospaced font and won't have quotes.
+One other quick note: in this and other Readme files this semester, backquotes are often used to signal that something is code or or some thing (such as a file name) that should be entered directly as-is. In the rendered version (PDF or preview) the text will be shown in a monospaced font and won't have quotes.
 
 This approach is used to avoid a meta-quote problem: putting quotes around code would be confusing since the code itself can have quotes. For example, the first instruction below is cleaner and clearer than the second:
 
 * Add a line to your script that says `name = "Python"`
+
 * Add a line to your script that says "name = "Python"" but without the outside quotes.
 
 When you're looking at the raw Markdown, you'll see the backquotes but be sure to omit them when you're carrying out the instructions.
 
 ## Deliverables
 
-Your finished repository should contain an updated version of **bio.md** plus a new file called **done.md**.
+Your finished repository should contain an updated version of **bio.md** plus a new file called **results.md**.
 
 ## Instructions
 
@@ -33,33 +34,35 @@ Please use VS Code or another text editor to revise the accompanying Markdown fi
 
 1. Now go on to the remaining sections. In each case replace the letters `TBD` with a short answer to the question. The answers don't have to be long: a few words or a sentence or two are enough.
 
-1. Stage and commit that change with an appropriate log message. It's OK to do all the changes for questions 2-4 at once.
+1. Make sure your file looks OK in the previewer.
 
-### done.md
+1. Stage and commit that change with an appropriate log message. It's OK to do all the changes for questions 2-5 at once.
 
-Now create a new file called `done.md` with the contents described below. If you haven't used Markdown a lot, you might want to look at the `demo.md` file to see examples of some of the Markdown that will be needed.
+### results.md
 
-1. Start with a level 1 heading line that says `Done` (just the word, don't include the backquotes).
+Now create a new file called `results.md` with the contents described below. If you haven't used Markdown a lot, you might want to look at the `demo.md` file to see examples of some of the Markdown that will be needed.
 
-1. Add some plain text (not a heading) that says `Here is a demonstration of some features of Markdown` (again, just the words: don't include the backquotes in the Readme file).
+1. Start with a level 1 heading line that says `Results` (just the word, remember not to include the backquotes in the Readme file).
+
+1. Add some plain text (not a heading) that says `Here is a demonstration of features of Markdown` (again, no backquotes).
 
 1. Add a level 2 heading that says `Three Courses`.
 
-1. Add a *unnumbered* list consisting of any three Maxwell course numbers and titles (e.g., `PAI 789 Advanced Policy Analysis``).
+1. Add a *unnumbered* list consisting of any three Maxwell course numbers and titles (e.g., PAI 789 Advanced Policy Analysis).
 
-1. Add a level 2 heading that says `Some Animals`` and then add an *numbered* list of any three animals.
+1. Add a level 2 heading that says `Some Animals` and then add an *numbered* list of any three animals.
 
-1. Add a level 2 heading that says `Linking``.
+1. Add a level 2 heading that says `Linking`.
 
-1. Find a picture of an animal in your list (maybe a pet if you have one) and save it in the repository. Then add line of plain text saying what it is and then add an inline link to the image after the heading.
+1. Find a picture of an animal in your list (maybe a pet if you have one) and save it in the repository. Then (a) add line of plain text saying what it is, and (b) add an inline link to the image after the heading.
 
-1. Add another line of plain text that says `The instructions for this assignment are here` where "here" is a link to this file, `readme.md`.
+1. Add another line of plain text that says `The instructions for this assignment are here` where `here` is a link to this file, `readme.md`.
 
 1. Finally, another level 2 heading that says `Code` and follow it with a Python code block with two short lines of code: the first should be `message ="done"` and the second should be `print(message)`.
 
 1. Finally, make sure your file looks OK in the previewer. It should be formatted correctly, the image should be visible, the link should work, and the code should be in block.
 
-1. Commit `done.md` and your animal image to the repository.
+1. Commit `results.md` and your animal image to the repository.
 
 ## Submitting
 
@@ -69,4 +72,4 @@ Then check that the changes are **visible on the GitHub website**. If so, you're
 
 ## Tips
 
-+ Markdown is a very useful tool and we'll use it a fair amount this semester. To learn more, see the Markdown link in the Resources section of the class web page.
+* Markdown is a very useful tool and we'll use it a fair amount this semester. To learn more, see the Markdown link in the Resources section of the class web page.
