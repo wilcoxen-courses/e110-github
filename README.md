@@ -8,9 +8,9 @@ If you're viewing this file using VS Code, you can see a nicely formatted versio
 
 ![Markdown preview icon](image1.png)
 
-One other quick note: in this and other Readme files this semester, backquotes are often used to signal that something is code or or some thing (such as a file name) that should be entered directly as-is. In the rendered version (PDF or preview) the text will be shown in a monospaced font and won't have quotes.
+One other quick note: in this and other readme files this semester, backquotes are often used to indicate code or other things, such as file names, that should be entered directly as-is. In the rendered version (PDF or preview) the text will be shown in a monospaced font and won't have quotes `like this`.
 
-This approach is used to avoid a meta-quote problem: putting quotes around code would be confusing since the code itself can have quotes. For example, the first instruction below is cleaner and clearer than the second:
+This avoids a "meta-quote" problem: putting quotes around code would be confusing since the code itself can have quotes. For example, the first instruction below is cleaner and clearer than the second:
 
 * Add a line to your script that says `name = "Python"`
 
@@ -26,7 +26,7 @@ Your finished repository should contain an updated version of **bio.md** plus a 
 
 ### bio.md
 
-Please use VS Code or another text editor to revise the accompanying Markdown file `bio.md`. Please make the changes in the steps below. Don't do everything at once: part of the point is to see how successive revisions are logged and tracked.
+Please use VS Code to revise the accompanying Markdown file `bio.md`. Please make the changes in the steps below. Don't do everything at once: part of the point is to see how successive revisions are logged and tracked.
 
 1. There are five broad questions in the file. The first is about where you're from. Please edit it and **make only one change**: replace the placeholder string `TBD` with your home town.
 
@@ -54,7 +54,7 @@ Now create a new file called `results.md` with the contents described below. If 
 
 1. Add a level 2 heading that says `Linking`.
 
-1. Find a picture of an animal in your list (maybe a pet if you have one) and save it in the repository. Then (a) add line of plain text saying what it is, and (b) add an inline link to the image after the heading.
+1. Find a picture of an animal in your list (maybe a pet if you have one) and save the image in the folder with `bio.md`. Then do the following to `bio.md`: (a) add line of plain text saying what's in the picture, and (b) add an inline link to the image.
 
 1. Add another line of plain text that says `The instructions for this assignment are here` where `here` is a link to this file, `readme.md`.
 
