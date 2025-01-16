@@ -54,7 +54,7 @@ Now create a new file called `results.md` with the contents described below. If 
 
 1. Add a level 2 heading that says `Linking`.
 
-1. Find a picture of an animal in your list (maybe a pet if you have one) and save the image in the folder with `bio.md`. Then do the following to `bio.md`: (a) add line of plain text saying what's in the picture, and (b) add an inline link to the image.
+1. Find a picture of an animal in your list (maybe a pet if you have one) and save the image in the folder with `results.md`. Then do the following to `results.md`: (a) add line of plain text saying what's in the picture, and (b) add an inline link to the image.
 
 1. Add another line of plain text that says `The instructions for this assignment are here` where `here` is a link to this file, `readme.md`.
 
